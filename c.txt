@@ -17,3 +17,5 @@ sua lan 4 author testGit
 sua qua la dep
 
 oo  asdkfjakjsdfjkasfd
+
+them noi dung push len gitlab
