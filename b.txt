@@ -1,1 +1,3 @@
 day la noi dung cua file b
+
+noi dung update cua beta
